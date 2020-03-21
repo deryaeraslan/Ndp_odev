@@ -1,0 +1,10 @@
+C:\Users\lenovo\source\repos\Ndp.Odev\Ndp.Odev\bin\Debug\Ndp.Odev.exe.config
+C:\Users\lenovo\source\repos\Ndp.Odev\Ndp.Odev\bin\Debug\Ndp.Odev.exe
+C:\Users\lenovo\source\repos\Ndp.Odev\Ndp.Odev\bin\Debug\Ndp.Odev.pdb
+C:\Users\lenovo\source\repos\Ndp.Odev\Ndp.Odev\obj\Debug\Ndp.Odev.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Ndp.Odev\Ndp.Odev\obj\Debug\Ndp.Odev.Form1.resources
+C:\Users\lenovo\source\repos\Ndp.Odev\Ndp.Odev\obj\Debug\Ndp.Odev.Properties.Resources.resources
+C:\Users\lenovo\source\repos\Ndp.Odev\Ndp.Odev\obj\Debug\Ndp.Odev.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\Ndp.Odev\Ndp.Odev\obj\Debug\Ndp.Odev.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Ndp.Odev\Ndp.Odev\obj\Debug\Ndp.Odev.exe
+C:\Users\lenovo\source\repos\Ndp.Odev\Ndp.Odev\obj\Debug\Ndp.Odev.pdb
